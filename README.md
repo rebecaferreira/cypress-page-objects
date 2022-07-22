@@ -11,3 +11,5 @@ There are 4 test cases covered for this project:
 - Manager should be able to open an account to a customer
 - Users should be able to deposit into their bank account
 - Users should not be able to withdraw from their bank account if they have no balance
+
+Page Objects was the chosen structure for this project.
