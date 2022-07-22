@@ -13,6 +13,7 @@ There are 4 test cases covered for this project:
 - Users should not be able to withdraw from their bank account if they have no balance
 
 Page Objects was the chosen structure for this project.
+
 Cypress version: 10.3
 
 ### Future improvements:
